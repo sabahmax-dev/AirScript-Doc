@@ -73,7 +73,7 @@ AirScript脚本文档/
 
 ### 1. 打开 AirScript 编辑器
 
-1. 打开在线表
+1. 打开在线表格
 2. 切换至「效率」Tab
 3. 在下方二级工具栏找到「AirScript 编辑工具」
 4. 点击即可调起 AirScript 编辑器
@@ -189,4 +189,3 @@ A: 可以使用内置的网络 API 进行 HTTP 请求，详细使用方法请参
 5. 打开一个 Pull Request
 
 ---
-
